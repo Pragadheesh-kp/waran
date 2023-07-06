@@ -1,0 +1,18 @@
+git init - to create hiddn folder
+
+git add pragade.txt(file name to staging area)
+
+git commit -m (files need to coMMIT)
+
+git status
+
+git log
+
+gt remote pragade(remote name)   (url)== to add remote repository
+
+git branch -m main( to change branch)
+
+
+git push -u pragade1(remote name to push)
+
+git pull pragade1(remote name to push)
